@@ -1,0 +1,20 @@
+{
+    "data": [{
+            "Branch": "ALLIED HEALTH BIRGMINGHAM",
+            "Registrant": "America Jennifer",
+            "Type": "Email",
+            "Email": "jameric1@bulldogs.amamu.edu",
+            "Reason": "Message could not be delivered to some recipients. Recipient: [SMTP jameric1@bulldogs.aamu.edu] Reason: Remote SMTP Server Returned: 550-5.2.1 The email account that you tried to reach is disabled. Leam more at 550 5.2.1 https://support.google.com/mail/?p=DisabledUser 23-20020aca0f17000000b0038462069516si3277298oip.261-gsmtp"
+
+        },
+        {
+            "Branch": "ALLIED HEALTH BIRGMINGHAM",
+            "Registrant": "Barclay, Terrari",
+            "Type": "Text",
+            "Email": "245-233-1222",
+            "Reason": "error: invalid user address error message below: 550 - requested action not taken: no such user here message details: subject: field staff health insurance package announcement-2023 sent date: tue dec 06 17:19:33 utc 2022 mail from: stafferlinkasm+amtstaffing_6902194@stafferlink.com rcpt to: 2563681538@vtext.com size: 2.6 kib 2563681538@vtext.com from: field staff benefit package announcement <stafferlinkasm+amtstaffing_6902194@stafferlink.com> to 223333222@vtext.com"
+
+        }
+    ]
+
+}

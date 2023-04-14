@@ -1,0 +1,22 @@
+{
+    "name": "ClientAgencyRepresentativeListing",
+    "engine": "handlebars",
+    "recipe": "chrome-pdf",
+    "data": {
+        "shortid": "QUimKmAEo"
+    },
+    "shortid": "U9ZffvFhB3",
+    "chrome": {
+        "printBackground": true
+    },
+    "creationDate": {
+        "$$date": 1680539476626
+    },
+    "modificationDate": {
+        "$$date": 1680539512658
+    },
+    "inheritedReadPermissions": [],
+    "inheritedEditPermissions": [],
+    "_id": "8xh0WoPrH5H2kKFx",
+    "$entitySet": "templates"
+}

@@ -1,0 +1,14 @@
+{
+    "name": "MonthlyReporting",
+    "creationDate": {
+        "$$date": 1680621450467
+    },
+    "modificationDate": {
+        "$$date": 1680621450467
+    },
+    "shortid": "s6xpVuv",
+    "inheritedReadPermissions": [],
+    "inheritedEditPermissions": [],
+    "_id": "WBMeyr5ULMSRCKMw",
+    "$entitySet": "folders"
+}

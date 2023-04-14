@@ -1,0 +1,134 @@
+<html>
+
+<head>
+    <style>
+            {{asset "./clientstatus.css"}}
+        </style>  
+
+    </style>
+
+    
+    <title>AMT Medical</title>
+</head>
+
+<body>
+    <main>
+        <div class="head">
+            <h1>AMT Medical Staffing, Inc</h1>
+            <span>03/03/2023 - Page 1 of 1</span>
+        </div>
+
+
+        <div class="body">
+            <ul>
+                <li>Report:</li>
+                <li>Client Credit Status Listing</li>
+            </ul>
+            <ul>
+                <li>Location:</li>
+                <li>All</li>
+            </ul>
+            <ul>
+                <li>View:</li>
+                <li></li>
+            </ul>
+        </div>
+
+
+        <table>
+            <thead>
+
+                <tr>
+                    <th>Client name</th>
+                    <th>Client#</th>
+                    <th>Type</th>
+                    <th>Branch</th>
+                    <th>Status</th>
+                    <th>Credit Limit</th>
+                    <th>Current Balance</th>
+                    <th>Credit Available Lst Inv Date.</th>
+                    <th>Lst Pay Date.</th>
+                    <th>Lst Pay AMT.</th>
+
+                </tr>
+            </thead>
+            <tbody>
+
+                {{!--
+                <tr>
+                    <td>yahiya166</td>
+                    <td>yahiya</td>
+                    <td>asif</td>
+                    <td>yahiya166@gmail.com</td>
+                </tr> --}}
+                <tr>
+
+                    <td>{{data.[0].clientName}}</td>
+                    <td>{{data.[0].Client}}</td>
+                    <td>{{data.[0].Type}}</td>
+                    <td>{{data.[0].Branch}}</td>
+                    <td>{{data.[0].Status}}</td>
+                    <td>{{data.[0].Credit}}</td>
+                    <td>{{data.[0].current}}</td>
+                    <td>{{data.[0].Creditavailable}}</td>
+                    <td>{{data.[0].lstpaydate}}</td>
+                    <td>{{data.[0].lstpayAMt}}</td>
+                    
+
+                </tr>
+                <tr>
+
+                    <td>{{data.[1].clientName}}</td>
+                    <td>{{data.[1].Client}}</td>
+                    <td>{{data.[1].Type}}</td>
+                    <td>{{data.[1].Branch}}</td>
+                    <td>{{data.[1].Status}}</td>
+                    <td>{{data.[1].Credit}}</td>
+                    <td>{{data.[1].current}}</td>
+                    <td>{{data.[1].Creditavailable}}</td>
+                    <td>{{data.[1].lstpaydate}}</td>
+                    <td>{{data.[1].lstpayAMt}}</td>
+                    
+
+                </tr>
+                <tr>
+
+                    <td>{{data.[2].clientName}}</td>
+                    <td>{{data.[2].Client}}</td>
+                    <td>{{data.[2].Type}}</td>
+                    <td>{{data.[2].Branch}}</td>
+                    <td>{{data.[2].Status}}</td>
+                    <td>{{data.[2].Credit}}</td>
+                    <td>{{data.[2].current}}</td>
+                    <td>{{data.[2].Creditavailable}}</td>
+                    <td>{{data.[2].lstpaydate}}</td>
+                    <td>{{data.[2].lstpayAMt}}</td>
+                    
+
+                </tr>
+                <tr>
+
+                    <td>{{data.[3].clientName}}</td>
+                    <td>{{data.[3].Client}}</td>
+                    <td>{{data.[3].Type}}</td>
+                    <td>{{data.[3].Branch}}</td>
+                    <td>{{data.[3].Status}}</td>
+                    <td>{{data.[3].Credit}}</td>
+                    <td>{{data.[3].current}}</td>
+                    <td>{{data.[3].Creditavailable}}</td>
+                    <td>{{data.[3].lstpaydate}}</td>
+                    <td>{{data.[3].lstpayAMt}}</td>
+                    
+
+                </tr>
+            </tbody>
+        </table>
+
+
+    </main>
+
+
+
+</body>
+
+</html>

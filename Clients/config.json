@@ -1,0 +1,14 @@
+{
+    "name": "CLIENTREPORT",
+    "creationDate": {
+        "$$date": 1680536578734
+    },
+    "modificationDate": {
+        "$$date": 1680536578734
+    },
+    "shortid": "tDQghyD",
+    "inheritedReadPermissions": [],
+    "inheritedEditPermissions": [],
+    "_id": "cQnGyPDJCY5P2L54",
+    "$entitySet": "folders"
+}

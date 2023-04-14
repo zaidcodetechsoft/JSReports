@@ -1,0 +1,14 @@
+{
+    "name": "email.data",
+    "shortid": "SyARQFzRe",
+    "creationDate": {
+        "$$date": 1680281566427
+    },
+    "modificationDate": {
+        "$$date": 1680283139986
+    },
+    "inheritedReadPermissions": [],
+    "inheritedEditPermissions": [],
+    "_id": "S7gSSexUt893w2ZV",
+    "$entitySet": "data"
+}

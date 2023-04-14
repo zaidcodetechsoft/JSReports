@@ -1,0 +1,14 @@
+{
+    "name": "clientagency.data",
+    "shortid": "QUimKmAEo",
+    "creationDate": {
+        "$$date": 1680539363040
+    },
+    "modificationDate": {
+        "$$date": 1680541662195
+    },
+    "inheritedReadPermissions": [],
+    "inheritedEditPermissions": [],
+    "_id": "zZo5dTaDH6DlqHDL",
+    "$entitySet": "data"
+}

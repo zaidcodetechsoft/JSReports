@@ -1,0 +1,14 @@
+{
+    "name": "Email Blacklisting",
+    "creationDate": {
+        "$$date": 1680281467593
+    },
+    "modificationDate": {
+        "$$date": 1680281467593
+    },
+    "shortid": "o-rXNqA",
+    "inheritedReadPermissions": [],
+    "inheritedEditPermissions": [],
+    "_id": "NJx9MhC29zKiS1ix",
+    "$entitySet": "folders"
+}

@@ -1,0 +1,14 @@
+{
+    "name": "ClientAgencyRepresentativeListing",
+    "creationDate": {
+        "$$date": 1680539315845
+    },
+    "modificationDate": {
+        "$$date": 1680539315845
+    },
+    "shortid": "uZJXFlp",
+    "inheritedReadPermissions": [],
+    "inheritedEditPermissions": [],
+    "_id": "0L0PvJIsP716zgei",
+    "$entitySet": "folders"
+}

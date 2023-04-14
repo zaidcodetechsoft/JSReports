@@ -1,0 +1,22 @@
+{
+    "name": "ClientHolidaysListing",
+    "engine": "handlebars",
+    "recipe": "chrome-pdf",
+    "data": {
+        "shortid": "DcxjD-Swz"
+    },
+    "shortid": "dXQbkqpl87",
+    "chrome": {
+        "printBackground": true
+    },
+    "creationDate": {
+        "$$date": 1680710753261
+    },
+    "modificationDate": {
+        "$$date": 1680711218557
+    },
+    "inheritedReadPermissions": [],
+    "inheritedEditPermissions": [],
+    "_id": "EvMgopQxBWVAPN4j",
+    "$entitySet": "templates"
+}

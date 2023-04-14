@@ -1,0 +1,22 @@
+{
+    "name": "email blacklisting",
+    "engine": "handlebars",
+    "recipe": "chrome-pdf",
+    "data": {
+        "shortid": "SyARQFzRe"
+    },
+    "shortid": "cLBq85uWM4",
+    "chrome": {
+        "printBackground": true
+    },
+    "creationDate": {
+        "$$date": 1680281532957
+    },
+    "modificationDate": {
+        "$$date": 1680282091745
+    },
+    "inheritedReadPermissions": [],
+    "inheritedEditPermissions": [],
+    "_id": "JnvhWIrMCuNnxjdq",
+    "$entitySet": "templates"
+}

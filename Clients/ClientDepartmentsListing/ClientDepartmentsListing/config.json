@@ -1,0 +1,22 @@
+{
+    "name": "ClientDepartmentsListing",
+    "engine": "handlebars",
+    "recipe": "chrome-pdf",
+    "data": {
+        "shortid": "54u-KvOXV"
+    },
+    "shortid": "PL0vg61wN7",
+    "chrome": {
+        "printBackground": true
+    },
+    "creationDate": {
+        "$$date": 1680712981740
+    },
+    "modificationDate": {
+        "$$date": 1680713015046
+    },
+    "inheritedReadPermissions": [],
+    "inheritedEditPermissions": [],
+    "_id": "5pVoRQR7zIau2DsJ",
+    "$entitySet": "templates"
+}

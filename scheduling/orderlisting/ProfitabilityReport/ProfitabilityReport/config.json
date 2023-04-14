@@ -1,0 +1,22 @@
+{
+    "name": "ProfitabilityReport",
+    "engine": "handlebars",
+    "recipe": "chrome-pdf",
+    "data": {
+        "shortid": "HbXxnttRD"
+    },
+    "shortid": "-mFzjZzveA",
+    "chrome": {
+        "printBackground": true
+    },
+    "creationDate": {
+        "$$date": 1680529561850
+    },
+    "modificationDate": {
+        "$$date": 1680531177523
+    },
+    "inheritedReadPermissions": [],
+    "inheritedEditPermissions": [],
+    "_id": "WtONHG8c050YXtiZ",
+    "$entitySet": "templates"
+}

@@ -1,0 +1,14 @@
+{
+    "name": "ClientCreditStatusListing",
+    "creationDate": {
+        "$$date": 1680539626496
+    },
+    "modificationDate": {
+        "$$date": 1680539626496
+    },
+    "shortid": "raIovXe",
+    "inheritedReadPermissions": [],
+    "inheritedEditPermissions": [],
+    "_id": "aHwVdHvV291vGDoq",
+    "$entitySet": "folders"
+}

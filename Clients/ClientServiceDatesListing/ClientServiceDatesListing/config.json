@@ -1,0 +1,22 @@
+{
+    "name": "ClientServiceDatesListing",
+    "engine": "handlebars",
+    "recipe": "chrome-pdf",
+    "data": {
+        "shortid": "mZWrd_vs3"
+    },
+    "shortid": "hG9W31mkK",
+    "chrome": {
+        "printBackground": true
+    },
+    "creationDate": {
+        "$$date": 1680533351974
+    },
+    "modificationDate": {
+        "$$date": 1680539655248
+    },
+    "inheritedReadPermissions": [],
+    "inheritedEditPermissions": [],
+    "_id": "AH4PrWQniU34tXxT",
+    "$entitySet": "templates"
+}

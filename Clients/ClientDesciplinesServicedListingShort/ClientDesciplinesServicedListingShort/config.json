@@ -1,0 +1,22 @@
+{
+    "name": "ClientDesciplinesServicedListingShort",
+    "engine": "handlebars",
+    "recipe": "chrome-pdf",
+    "data": {
+        "shortid": "FAD6nFr5H"
+    },
+    "shortid": "NYhS1_DcI",
+    "chrome": {
+        "printBackground": true
+    },
+    "creationDate": {
+        "$$date": 1680709936581
+    },
+    "modificationDate": {
+        "$$date": 1680710141324
+    },
+    "inheritedReadPermissions": [],
+    "inheritedEditPermissions": [],
+    "_id": "Il5f18HUJmNfJjWg",
+    "$entitySet": "templates"
+}

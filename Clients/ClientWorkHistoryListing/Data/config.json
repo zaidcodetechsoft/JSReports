@@ -1,0 +1,14 @@
+{
+    "name": "Data",
+    "shortid": "CeVH4L6Yv",
+    "creationDate": {
+        "$$date": 1680533742782
+    },
+    "modificationDate": {
+        "$$date": 1680533742782
+    },
+    "inheritedReadPermissions": [],
+    "inheritedEditPermissions": [],
+    "_id": "D6sAMrKskMBr1QLi",
+    "$entitySet": "data"
+}

@@ -1,0 +1,204 @@
+<html>
+
+<head></head>
+
+<body>
+
+    <style>
+        {{asset "./MonthlyReporting.css"}}
+    </style>
+
+    <main>
+        <div class="head">
+            <h1>AMT Medical Staffing, Inc</h1>
+            <span>03/03/2023 - Page 1 of 1</span>
+        </div>
+
+
+        <div class="body">
+            <ul>
+                <li>Report:</li>
+                <li>Monthly Reporting</li>
+            </ul>
+            <ul>
+                <li>Location:</li>
+                <li>All</li>
+            </ul>
+            <ul>
+                <li>View:</li>
+                <li></li>
+            </ul>
+        </div>
+
+
+
+        <table>
+            <thead>
+                <th>Registrant</th>
+                <th>Client</th>
+                <th>Department</th>
+                <th>Fst Wrk</th>
+                <th>Lst Wrk</th>
+                <th>Oriented</th>
+                <th>Oriented Date</th>
+            </thead>
+
+<tr>
+<table>
+            <tbody>
+
+                <tr>
+
+                    <td><b>({{data.[0].RegistrantName}}):</b></td>
+                    <td><b>{{data.[0].Client}}</b></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr>
+
+                    <td><b>({{data.[1].RegistrantName}}):</b></td>
+                    <td><b>{{data.[1].Client}}</b></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+
+                </tr>
+                <tr>
+                    <td>{{data.[2].RegistrantName}}</td>
+                    <td>{{data.[2].Client}}</td>
+                    <td>{{data.[2].Department}}</td>
+                    <td>{{data.[2].FstWrk}}</td>
+                    <td>{{data.[2].LstWrk}}</td>
+                    <td class="checkbox12"><input type="checkbox" name="check" class="checkbox1"></td>
+
+                </tr>
+
+          
+    
+           </tbody>
+                   
+      <tfoot>
+
+                    <tr>
+
+                        <td></td>
+                        <td></td>
+                        <td class="line2"><b>{{data.[3].Department}}:</b></td>
+                        <td class="line2"><b>{{data.[3].FstWrk}}</b></td>
+                        <td class="line2"><b>{{data.[3].LstWrk}}</b></td>
+                        <td class="line2"></td>
+                        <td class="line2">{{data.[3].OrientedDate}}</td>
+                    </tr>
+
+            </tfoot>
+</table>
+</tr>
+
+ <tr> 
+    <table>  
+<tbody>
+                    <tr>
+
+                    <td><b>({{data.[0].RegistrantName}}):</b></td>
+                    <td><b>{{data.[0].Client}}</b></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr>
+
+                    <td><b>({{data.[1].RegistrantName}}):</b></td>
+                    <td><b>{{data.[1].Client}}</b></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+
+                </tr>
+                <tr class="grey">
+                    <td>{{data.[2].RegistrantName}}</td>
+                    <td>{{data.[2].Client}}</td>
+                    <td>{{data.[2].Department}}</td>
+                    <td>{{data.[2].FstWrk}}</td>
+                    <td>{{data.[2].LstWrk}}</td>
+                    <td class="checkbox12"> <input type="checkbox" name="check" class="checkbox1"></td>
+                    <td></td>
+                </tr>
+
+
+</tbody>
+
+            <tfoot>
+                    <tr>
+
+                        <td></td>
+                        <td></td>
+                        <td class="line2"><b>{{data.[3].Department}}:</b></td>
+                        <td class="line2"><b>{{data.[3].FstWrk}}</b></td>
+                        <td class="line2"><b>{{data.[3].LstWrk}}</b></td>
+                        <td class="line2"></td>
+                        <td class="line2">{{data.[3].OrientedDate}}</td>
+                    </tr>
+                </tfoot>
+</table>
+</tr>
+
+
+<tr>
+    <table>
+    <tbody>
+                <tr>
+
+                    <td><b>({{data.[0].RegistrantName}}):</b></td>
+                    <td><b>{{data.[0].Client}}</b></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr>
+
+                    <td><b>({{data.[1].RegistrantName}}):</b></td>
+                    <td><b>{{data.[1].Client}}</b></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+
+                </tr>
+                <tr>
+                    <td>{{data.[2].RegistrantName}}</td>
+                    <td>{{data.[2].Client}}</td>
+                    <td>{{data.[2].Department}}</td>
+                    <td>{{data.[2].FstWrk}}</td>
+                    <td>{{data.[2].LstWrk}}</td>
+                    <td class="checkbox12"><input type="checkbox" name="check" class="checkbox1"></td>
+
+                </tr>
+
+
+          </tbody>  
+            <tfoot>
+                    <tr>
+
+                        <td></td>
+                        <td></td>
+                        <td class="line2"><b>{{data.[3].Department}}:</b></td>
+                        <td class="line2"><b>{{data.[3].FstWrk}}</b></td>
+                        <td class="line2"><b>{{data.[3].LstWrk}}</b></td>
+                        <td class="line2"></td>
+                        <td class="line2">{{data.[3].OrientedDate}}</td>
+                    </tr>
+
+</tfoot>
+</table>
+          </tr> 
+
+        </table>
+
+
+    </main>
+</body>
+
+</html>

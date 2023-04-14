@@ -1,0 +1,14 @@
+{
+    "name": "ContractOrderCancelledDaysListing",
+    "creationDate": {
+        "$$date": 1680528842584
+    },
+    "modificationDate": {
+        "$$date": 1680528842584
+    },
+    "shortid": "tELjpKG",
+    "inheritedReadPermissions": [],
+    "inheritedEditPermissions": [],
+    "_id": "kA8T3aVatGl6lMlc",
+    "$entitySet": "folders"
+}

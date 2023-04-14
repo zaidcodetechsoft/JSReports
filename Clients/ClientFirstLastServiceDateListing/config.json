@@ -1,0 +1,14 @@
+{
+    "name": "ClientFirstLastServiceDateListing",
+    "creationDate": {
+        "$$date": 1680711498817
+    },
+    "modificationDate": {
+        "$$date": 1680711498817
+    },
+    "shortid": "E_5wrGY",
+    "inheritedReadPermissions": [],
+    "inheritedEditPermissions": [],
+    "_id": "ffpECy8OXATuTyjA",
+    "$entitySet": "folders"
+}

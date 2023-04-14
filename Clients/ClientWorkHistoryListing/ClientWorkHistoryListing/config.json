@@ -1,0 +1,22 @@
+{
+    "name": "ClientWorkHistoryListing",
+    "engine": "handlebars",
+    "recipe": "chrome-pdf",
+    "data": {
+        "shortid": "CeVH4L6Yv"
+    },
+    "shortid": "GJ-YlC-6kz",
+    "chrome": {
+        "printBackground": true
+    },
+    "creationDate": {
+        "$$date": 1680533732790
+    },
+    "modificationDate": {
+        "$$date": 1680539722437
+    },
+    "inheritedReadPermissions": [],
+    "inheritedEditPermissions": [],
+    "_id": "AK5BuyZ9XhSufLq3",
+    "$entitySet": "templates"
+}

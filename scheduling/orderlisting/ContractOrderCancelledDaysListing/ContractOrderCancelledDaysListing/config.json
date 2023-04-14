@@ -1,0 +1,22 @@
+{
+    "name": "ContractOrderCancelledDaysListing",
+    "engine": "handlebars",
+    "recipe": "chrome-pdf",
+    "data": {
+        "shortid": "GIJLg80zi"
+    },
+    "shortid": "z7lD4m5aDI",
+    "chrome": {
+        "printBackground": true
+    },
+    "creationDate": {
+        "$$date": 1680528967869
+    },
+    "modificationDate": {
+        "$$date": 1680529234846
+    },
+    "inheritedReadPermissions": [],
+    "inheritedEditPermissions": [],
+    "_id": "wTCo5ntAauGPRmZj",
+    "$entitySet": "templates"
+}

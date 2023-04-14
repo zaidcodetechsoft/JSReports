@@ -1,0 +1,14 @@
+{
+    "name": "ClientDoNotScheduledListing",
+    "creationDate": {
+        "$$date": 1680712572907
+    },
+    "modificationDate": {
+        "$$date": 1680712572907
+    },
+    "shortid": "sXDcjlR",
+    "inheritedReadPermissions": [],
+    "inheritedEditPermissions": [],
+    "_id": "tippwu6o1BJlK174",
+    "$entitySet": "folders"
+}

@@ -1,0 +1,22 @@
+{
+    "name": "ClientCreditstatusListing",
+    "engine": "handlebars",
+    "recipe": "chrome-pdf",
+    "data": {
+        "shortid": "m4L1bvjmc"
+    },
+    "shortid": "Ccrzm67Kuk",
+    "chrome": {
+        "printBackground": true
+    },
+    "creationDate": {
+        "$$date": 1680539849332
+    },
+    "modificationDate": {
+        "$$date": 1680541662229
+    },
+    "inheritedReadPermissions": [],
+    "inheritedEditPermissions": [],
+    "_id": "932Y7ITtcvJFyx7p",
+    "$entitySet": "templates"
+}

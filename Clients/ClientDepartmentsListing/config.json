@@ -1,0 +1,14 @@
+{
+    "name": "ClientDepartmentsListing",
+    "creationDate": {
+        "$$date": 1680712831370
+    },
+    "modificationDate": {
+        "$$date": 1680712831370
+    },
+    "shortid": "8yhyHNW",
+    "inheritedReadPermissions": [],
+    "inheritedEditPermissions": [],
+    "_id": "4AoTwhAJnDf8H8w3",
+    "$entitySet": "folders"
+}

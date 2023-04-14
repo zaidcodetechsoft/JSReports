@@ -1,0 +1,14 @@
+{
+    "name": "WorkHistoryData",
+    "shortid": "224Sl4jEk",
+    "creationDate": {
+        "$$date": 1680621496490
+    },
+    "modificationDate": {
+        "$$date": 1680621774717
+    },
+    "inheritedReadPermissions": [],
+    "inheritedEditPermissions": [],
+    "_id": "J7wx9JWHCiZqXRGj",
+    "$entitySet": "data"
+}

@@ -1,0 +1,14 @@
+{
+    "name": "TravelQuotesListing",
+    "creationDate": {
+        "$$date": 1680528029002
+    },
+    "modificationDate": {
+        "$$date": 1680528029002
+    },
+    "shortid": "BrIy0mt",
+    "inheritedReadPermissions": [],
+    "inheritedEditPermissions": [],
+    "_id": "szA2HxIOttss3Xkq",
+    "$entitySet": "folders"
+}

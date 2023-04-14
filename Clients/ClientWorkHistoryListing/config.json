@@ -1,0 +1,14 @@
+{
+    "name": "ClientWorkHistoryListing",
+    "creationDate": {
+        "$$date": 1680533706516
+    },
+    "modificationDate": {
+        "$$date": 1680533706516
+    },
+    "shortid": "TsbFV6K",
+    "inheritedReadPermissions": [],
+    "inheritedEditPermissions": [],
+    "_id": "iOEXQPrSsgwchhPQ",
+    "$entitySet": "folders"
+}

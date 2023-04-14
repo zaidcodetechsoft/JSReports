@@ -1,0 +1,14 @@
+{
+    "name": "ClientInvoiceEmailListing",
+    "creationDate": {
+        "$$date": 1680710374359
+    },
+    "modificationDate": {
+        "$$date": 1680710374359
+    },
+    "shortid": "UFLs1Hn",
+    "inheritedReadPermissions": [],
+    "inheritedEditPermissions": [],
+    "_id": "RGcQMJbeejzPhOp5",
+    "$entitySet": "folders"
+}

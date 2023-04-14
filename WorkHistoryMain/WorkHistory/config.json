@@ -1,0 +1,14 @@
+{
+    "name": "WorkHistory",
+    "creationDate": {
+        "$$date": 1680621406027
+    },
+    "modificationDate": {
+        "$$date": 1680621406027
+    },
+    "shortid": "FTjzj3i",
+    "inheritedReadPermissions": [],
+    "inheritedEditPermissions": [],
+    "_id": "zXgkosuj9HL3W74n",
+    "$entitySet": "folders"
+}

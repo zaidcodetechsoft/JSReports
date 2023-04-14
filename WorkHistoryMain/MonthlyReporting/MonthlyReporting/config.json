@@ -1,0 +1,22 @@
+{
+    "name": "MonthlyReporting",
+    "engine": "handlebars",
+    "recipe": "chrome-pdf",
+    "data": {
+        "shortid": "eM5r63e-D"
+    },
+    "shortid": "iRDcO5vIRt",
+    "chrome": {
+        "printBackground": true
+    },
+    "creationDate": {
+        "$$date": 1680623728782
+    },
+    "modificationDate": {
+        "$$date": 1681488705547
+    },
+    "inheritedReadPermissions": [],
+    "inheritedEditPermissions": [],
+    "_id": "0E82Wl23DuUhu6i0",
+    "$entitySet": "templates"
+}

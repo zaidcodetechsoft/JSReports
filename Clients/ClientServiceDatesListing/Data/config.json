@@ -1,0 +1,14 @@
+{
+    "name": "Data",
+    "shortid": "mZWrd_vs3",
+    "creationDate": {
+        "$$date": 1680533365917
+    },
+    "modificationDate": {
+        "$$date": 1680533365917
+    },
+    "inheritedReadPermissions": [],
+    "inheritedEditPermissions": [],
+    "_id": "Qm9QQ3yPH10mzQ7U",
+    "$entitySet": "data"
+}

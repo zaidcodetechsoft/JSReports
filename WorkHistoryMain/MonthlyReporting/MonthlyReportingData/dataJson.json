@@ -1,0 +1,53 @@
+{
+    "data": [{
+            "RegistrantName": "Client Name",
+            "Client": "(SUE) ILAVERE PARKERT",
+            "Department": "",
+            "FstWrk": "",
+            "LstWrk": "",
+            "Oriented": "",
+            "OrientedDate": ""
+        },
+        {
+            "RegistrantName": "Registrant",
+            "Client": "Alexander,Loretta",
+            "Department": "",
+            "FstWrk": "",
+            "LstWrk": "",
+            "Oriented": "",
+            "OrientedDate": ""
+
+        },
+        {
+            "RegistrantName": "Alexander,Loretta",
+            "Client": "(SUE) ILAVERE PARKERT",
+            "Department": "REDSTONE PRIVATE DUTY",
+            "FstWrk": "04/01/19",
+            "LstWrk": "04/01/19",
+            "Oriented": "",
+            "OrientedDate": ""
+        },
+        {
+            "RegistrantName": "",
+            "Client": "",
+            "Department": "Totals for (Registrant)",
+            "FstWrk": "Alexander,",
+            "LstWrk": "Loretta",
+            "Oriented": "",
+            "OrientedDate": "Records: 1"
+
+        },
+        {
+           "RegistrantName": "Totals for (Registrant)",
+            "Client": "(SUE) ILAVERE PARKERT",
+            "Department": "Totals for (Registrant)",
+            "FstWrk": "Alexander,",
+            "LstWrk": "Loretta",
+            "QuickNote": "",
+            "Oriented": "",
+            "OrientedDate": ""
+        }
+    
+    ]
+
+}

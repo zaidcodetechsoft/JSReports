@@ -1,0 +1,59 @@
+{
+    "data": [{
+            "clientName": "yahiya177",
+            "Client": "yahiya",
+            "Type": "asif",
+            "Branch": "main",
+            "Status": "valid",
+            "Credit": "50000",
+            "current": "60000",
+            "Creditavailable": "asif",
+            "lstpaydate": "30-march",
+            "lstpayAMt": "31-march"
+
+
+        },
+       {
+            "clientName": "yahiya177",
+            "Client": "yahiya",
+            "Type": "asif",
+            "Branch": "main",
+            "Status": "valid",
+            "Credit": "50000",
+            "current": "60000",
+            "Creditavailable": "asif",
+            "lstpaydate": "30-march",
+            "lstpayAMt": "31-march"
+
+
+        },
+        {
+           "clientName": "yahiya177",
+            "Client": "yahiya",
+            "Type": "asif",
+            "Branch": "main",
+            "Status": "valid",
+            "Credit": "50000",
+            "current": "60000",
+            "Creditavailable": "asif",
+            "lstpaydate": "30-march",
+            "lstpayAMt": "31-march"
+
+
+        },
+        {"clientName": "yahiya177",
+            "Client": "yahiya",
+            "Type": "asif",
+            "Branch": "main",
+            "Status": "valid",
+            "Credit": "50000",
+            "current": "60000",
+            "Creditavailable": "asif",
+            "lstpaydate": "30-march",
+            "lstpayAMt": "31-march"
+
+        }
+        
+    ]
+
+}

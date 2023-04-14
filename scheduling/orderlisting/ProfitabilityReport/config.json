@@ -1,0 +1,14 @@
+{
+    "name": "ProfitabilityReport",
+    "creationDate": {
+        "$$date": 1680529508521
+    },
+    "modificationDate": {
+        "$$date": 1680529508521
+    },
+    "shortid": "KKr86E1",
+    "inheritedReadPermissions": [],
+    "inheritedEditPermissions": [],
+    "_id": "ml7tz4dy7wGrMg2c",
+    "$entitySet": "folders"
+}

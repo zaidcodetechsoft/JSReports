@@ -1,0 +1,14 @@
+{
+    "name": "MonthlyReportingData",
+    "shortid": "eM5r63e-D",
+    "creationDate": {
+        "$$date": 1680623726576
+    },
+    "modificationDate": {
+        "$$date": 1681227128242
+    },
+    "inheritedReadPermissions": [],
+    "inheritedEditPermissions": [],
+    "_id": "5ukxMriP2z0gBGSX",
+    "$entitySet": "data"
+}

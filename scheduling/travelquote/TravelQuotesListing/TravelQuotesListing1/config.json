@@ -1,0 +1,22 @@
+{
+    "name": "TravelQuotesListing1",
+    "engine": "handlebars",
+    "recipe": "chrome-pdf",
+    "data": {
+        "shortid": "6z6AU3d8W"
+    },
+    "shortid": "FZKyXwgbO",
+    "chrome": {
+        "printBackground": true
+    },
+    "creationDate": {
+        "$$date": 1680528587328
+    },
+    "modificationDate": {
+        "$$date": 1680531303612
+    },
+    "inheritedReadPermissions": [],
+    "inheritedEditPermissions": [],
+    "_id": "PFWq6CWNOXzonnIA",
+    "$entitySet": "templates"
+}

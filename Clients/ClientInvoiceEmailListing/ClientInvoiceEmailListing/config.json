@@ -1,0 +1,22 @@
+{
+    "name": "ClientInvoiceEmailListing",
+    "engine": "handlebars",
+    "recipe": "chrome-pdf",
+    "data": {
+        "shortid": "zHVIlqGd7"
+    },
+    "shortid": "DileiqMChw",
+    "chrome": {
+        "printBackground": true
+    },
+    "creationDate": {
+        "$$date": 1680710435410
+    },
+    "modificationDate": {
+        "$$date": 1680710550036
+    },
+    "inheritedReadPermissions": [],
+    "inheritedEditPermissions": [],
+    "_id": "nwhvioP8DpBtUCtf",
+    "$entitySet": "templates"
+}

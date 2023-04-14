@@ -1,0 +1,22 @@
+{
+    "name": "ClientAdressesListing",
+    "engine": "handlebars",
+    "recipe": "chrome-pdf",
+    "data": {
+        "shortid": "Lo19uy2oy"
+    },
+    "shortid": "C3popUba8N",
+    "chrome": {
+        "printBackground": true
+    },
+    "creationDate": {
+        "$$date": 1680536897729
+    },
+    "modificationDate": {
+        "$$date": 1680633194553
+    },
+    "inheritedReadPermissions": [],
+    "inheritedEditPermissions": [],
+    "_id": "vqPVMLHqCSpoODVd",
+    "$entitySet": "templates"
+}

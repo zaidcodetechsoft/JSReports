@@ -1,0 +1,14 @@
+{
+    "name": "ClientHolidaysListing",
+    "creationDate": {
+        "$$date": 1680710689741
+    },
+    "modificationDate": {
+        "$$date": 1680710689741
+    },
+    "shortid": "lbV-SRZ",
+    "inheritedReadPermissions": [],
+    "inheritedEditPermissions": [],
+    "_id": "9xWEPdPgJd9YBG8F",
+    "$entitySet": "folders"
+}

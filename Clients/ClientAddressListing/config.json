@@ -1,0 +1,14 @@
+{
+    "name": "Client Disciplines Serviced",
+    "creationDate": {
+        "$$date": 1680536592763
+    },
+    "modificationDate": {
+        "$$date": 1680631811061
+    },
+    "shortid": "vAy09LK",
+    "inheritedReadPermissions": [],
+    "inheritedEditPermissions": [],
+    "_id": "hcXgfdhkJb0XuN0E",
+    "$entitySet": "folders"
+}

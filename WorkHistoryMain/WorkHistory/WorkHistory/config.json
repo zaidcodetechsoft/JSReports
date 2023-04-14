@@ -1,0 +1,22 @@
+{
+    "name": "WorkHistory",
+    "engine": "handlebars",
+    "recipe": "chrome-pdf",
+    "data": {
+        "shortid": "224Sl4jEk"
+    },
+    "shortid": "6sDfYPHJe-",
+    "chrome": {
+        "printBackground": true
+    },
+    "creationDate": {
+        "$$date": 1680621493953
+    },
+    "modificationDate": {
+        "$$date": 1680623453081
+    },
+    "inheritedReadPermissions": [],
+    "inheritedEditPermissions": [],
+    "_id": "4gpwibhsC6nrdVdh",
+    "$entitySet": "templates"
+}

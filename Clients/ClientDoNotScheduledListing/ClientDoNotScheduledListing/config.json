@@ -1,0 +1,22 @@
+{
+    "name": "ClientDoNotScheduledListing",
+    "engine": "handlebars",
+    "recipe": "chrome-pdf",
+    "data": {
+        "shortid": "AJzPuJWqx"
+    },
+    "shortid": "bDqxrG8DOs",
+    "chrome": {
+        "printBackground": true
+    },
+    "creationDate": {
+        "$$date": 1680712656081
+    },
+    "modificationDate": {
+        "$$date": 1680712693649
+    },
+    "inheritedReadPermissions": [],
+    "inheritedEditPermissions": [],
+    "_id": "2iWyHC5lCNga6LJw",
+    "$entitySet": "templates"
+}

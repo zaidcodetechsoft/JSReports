@@ -1,0 +1,14 @@
+{
+    "name": "ClientDesciplineServicedListingLong",
+    "creationDate": {
+        "$$date": 1680708682896
+    },
+    "modificationDate": {
+        "$$date": 1680708682896
+    },
+    "shortid": "mjz8kv6",
+    "inheritedReadPermissions": [],
+    "inheritedEditPermissions": [],
+    "_id": "Rc4iwSEgc8PuHmgv",
+    "$entitySet": "folders"
+}
